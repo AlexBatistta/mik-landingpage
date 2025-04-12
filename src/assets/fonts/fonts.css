@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Bropella';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./Bropella.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Centurty Gothic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./centurygothic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Centurty Gothic Bold';
+    font-style: normal;
+    font-weight: bold;
+    src: url('./centurygothic_bold.ttf') format('truetype');
+}

@@ -1,1 +1,12 @@
+@import "./assets/fonts/fonts.css";
 @import "tailwindcss";
+
+@theme {
+  --color-green-primary: #009c7b;
+  --color-green-secondary: #abccbc;
+  --color-orange-primary: #f49f7b;
+  --color-orange-secondary: #f3eada;
+  --font-bropella: "Bropella", sans-serif;
+  --font-century-gothic: "Centurty Gothic", sans-serif;
+  --font-century-gothic-bold: "Centurty Gothic Bold", sans-serif;
+}
